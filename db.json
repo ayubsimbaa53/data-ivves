@@ -8,7 +8,7 @@
               "id": 1,
               "name": "Phone Accessories"
           },
-          "brand": "Speck"
+          "licence": "Speck"
       },
       {
           "id": 2,
@@ -19,7 +19,7 @@
               "id": 1,
               "name": "Phone Accessories"
           },
-          "brand": "SUPCASE"
+          "licence": "SUPCASE"
       },
       {
           "id": 3,
@@ -30,7 +30,7 @@
               "id": 1,
               "name": "Phone Accessories"
           },
-          "brand": "OtterBox"
+          "licence": "OtterBox"
       },
       {
           "id": 4,
@@ -41,7 +41,7 @@
               "id": 1,
               "name": "Phone Accessories"
           },
-          "brand": "Speck"
+          "licence": "Speck"
       },
       {
           "id": 5,
@@ -52,7 +52,7 @@
               "id": 2,
               "name": "Mobile Phones"
           },
-          "brand": "Samsung"
+          "licence": "Samsung"
       },
       {
           "id": 6,
@@ -63,7 +63,7 @@
               "id": 2,
               "name": "Mobile Phones"
           },
-          "brand": "Samsung"
+          "licence": "Samsung"
       },
       {
           "id": 7,
@@ -74,7 +74,7 @@
               "id": 2,
               "name": "Mobile Phones"
           },
-          "brand": "Apple"
+          "licence": "Apple"
       },
       {
           "id": 8,
@@ -85,7 +85,7 @@
               "id": 3,
               "name": "Laptops"
           },
-          "brand": "Asus"
+          "licence": "Asus"
       },
       {
           "id": 9,
@@ -96,7 +96,7 @@
               "id": 3,
               "name": "Laptops"
           },
-          "brand": "HIDevolution"
+          "licence": "HIDevolution"
       },
       {
           "id": 10,
@@ -107,7 +107,7 @@
               "id": 3,
               "name": "Laptops"
           },
-          "brand": "MSI"
+          "licence": "MSI"
       },
       {
           "id": 11,
@@ -118,7 +118,7 @@
               "id": 3,
               "name": "Laptops"
           },
-          "brand": "Alienware"
+          "licence": "Alienware"
       },
       {
           "id": 12,
@@ -129,7 +129,7 @@
               "id": 3,
               "name": "laptops"
           },
-          "brand": "Razer"
+          "licence": "Razer"
       }
   ],
   "Licence": [
