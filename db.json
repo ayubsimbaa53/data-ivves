@@ -58,7 +58,7 @@
         "LICENSE": "IS PRIVATE",
         "INTEGRATION": "AN API OR ENDPOINT COULD BE DEPLOYED TO COMMUNICATE WITH THE ARTIFACT (LOAD, EXPORT DATA) ",
         "category": {
-            "id": 2,
+            "id": 1,
             "name": "IS PRIVATE"
         },
         "brand": "CROSS-TASK"
@@ -74,7 +74,7 @@
         "LICENSE": "IS PRIVATE",
         "INTEGRATION": "AN API OR ENDPOINT COULD BE DEPLOYED TO COMMUNICATE WITH THE ARTIFACT (LOAD, EXPORT DATA) ",
         "category": {
-            "id": 2,
+            "id": 1,
             "name": "IS PRIVATE"
         },
         "brand": "CROSS-TASK"
@@ -137,7 +137,7 @@
     "LICENSE": "IS OPEN SOURCE",
     "INTEGRATION": "THE ARTIFACT CAN BE IMPORTED AS A LIBRARY/PACKAGE IN ANY IDE OR CAN BE WRAPPED TO BE USED  ",
         "category": {
-            "id": 1,
+            "id": 2,
             "name": "IS OPEN SOURCE"
         },
         "brand": "MODEL QUALITY"
