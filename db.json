@@ -192,24 +192,7 @@
                   },
                  
                  
-                 
-                  {
-          "id": "23",
-          "ENTITY": "RISE",
-          "TOOL-NAME": "RELOAD by RISE",
-          "FOCUS": "WP3 - ML-DRIVEN TESTING FOR COMPLEX SYSTEMS",
-          "DESCRIPTION": "An adaptive Reinforcement Learning-driven load testing agent which effectively learns how to tune the load of transactions.",
-          "REQUIREMENTS": "PYTHON",
-          "RESTRICTIONS": "THE ARTIFACT COULD BE USED AS AN ONLINE SERVICE OR ACCESSED VIA ONLINE API",
-          "LICENSE": "IS PRIVATE",
-          "INTEGRATION": "CAN BE USED, DEPLOYED AND/OR INTEGRATED IN ANY TOOLCHAIN. ",
-          "category": {
-            "id": 1,
-            "name": "IS PRIVATE"
-        },
-        "brand": "WP3 - ML-DRIVEN TESTING FOR COMPLEX SYSTEMS"
-        },
-      
+                
       
               
   
