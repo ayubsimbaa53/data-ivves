@@ -234,7 +234,11 @@
         },
         {
             "name": "IS OPEN SOURCE"
-        } 
+        },
+                    {
+            "name": "IS FREEWARE"
+        }
+                   
        
     ]
   }
