@@ -47,22 +47,7 @@
         },
         "brand": "TESTING TECHNIQUES FOR ML"
     },
-    {
-        "id": 4,
-        "ENTITY": "SIICONCATEL",
-        "NAME": "ESG: FinTech By CCTL/NetCheck",
-        "FOCUS": "WP2 - CROSS-TASK ",
-        "DESCRIPTION": "A Set Of Services To Process News For ESG Ivestment, Classify News And Detect/reject Synthetic Text",
-        "REQUIREMENTS": "NONE",
-        "RESTRICTIONS": "NO RESTRICTIONS",
-        "LICENSE": "IS PRIVATE",
-        "INTEGRATION": "AN API OR ENDPOINT COULD BE DEPLOYED TO COMMUNICATE WITH THE ARTIFACT (LOAD, EXPORT DATA) ",
-        "category": {
-            "id": 1,
-            "name": "IS PRIVATE"
-        },
-        "brand": "CROSS-TASK"
-    },
+   
     {
         "id": 4,
         "ENTITY": "SIICONCATEL",
