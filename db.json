@@ -195,10 +195,10 @@
     ],
     "Brands": [
         {
-            "name": "WP2 - MODEL QUALITY"
+            "name": "MODEL QUALITY"
         },
         {
-            "name": "WP2 - DATA QUALITY"
+            "name": "TESTING TECHNIQUES FOR ML"
         },
         {
             "name": "CROSS-TASK"
@@ -214,10 +214,8 @@
         },
         {
             "name": "DATA QUALITY"
-        },
-        {
-            "name": "DATA QUALITY"
         }
+        
        
        
     ],
