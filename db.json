@@ -223,7 +223,7 @@
           "ENTITY": "F-SECURE, HU",
           "TOOL-NAME": "pytest-rts  by HU and F-Secure",
           "FOCUS": "WP3 - ML-DRIVEN TESTING FOR COMPLEX SYSTEMS",
-          "DESCRIPTION": "Coverage-based test prioritization tool for Python.",
+          "DESCRIPTION": "Coverage-based test prioritization tool for Python.",
           "REQUIREMENTS": "PYTHON, PYTEST",
           "RESTRICTIONS": "THE ARTIFACT IS LIMITED TO A SPECIFIC ENVIRONMENT OR OS",
           "LICENSE": "IS OPEN SOURCE",
@@ -282,7 +282,7 @@
           "ENTITY": "SOGETI",
           "TOOL-NAME": "CodeAssist",
           "FOCUS": "WP3 - ML-DRIVEN TESTING FOR COMPLEX SYSTEMS",
-          "DESCRIPTION": "Quality tool that analyses python GIT repositories and  incoming code changes",
+          "DESCRIPTION": "Quality tool that analyses python GIT repositories and incoming code changes",
           "REQUIREMENTS": "PYTHON, GITHUB, GITLAB",
           "RESTRICTIONS": "THE ARTIFACT IS LIMITED TO A SPECIFIC ENVIRONMENT OR OS",
           "LICENSE": "IS PRIVATE",
@@ -354,7 +354,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand": "WP3 - ONLINE TESTING AND MONITORING FOR COMPLEX SYSTEMS",
+        "brand": "WP3 - ONLINE TESTING AND MONITORING FOR COMPLEX SYSTEMS"
         },
         {
           "id": "31",
@@ -370,7 +370,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES",
+        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES"
         },
         {
           "id": "32",
@@ -386,7 +386,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES",
+        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES"
         },
         {
           "id": "33",
@@ -402,7 +402,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES",
+        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES"
         },
         {
           "ENTITY": "RISE",
@@ -417,7 +417,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES",
+        "brand": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES"
         },
         {
           "id": "34",
@@ -433,14 +433,14 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand":  "WP4 - DATA ANALYTICS IN ENGINEERING AND OPERATION",
+        "brand":  "WP4 - DATA ANALYTICS IN ENGINEERING AND OPERATION"
         },
         {
           "id": "35",
           "ENTITY": "EKKONO",
           "TOOL-NAME": "Sample Application: Fault analysis and anomaly detection",
           "FOCUS": "WP4 - PATTERN RECOGNITION",
-          "DESCRIPTION": "Ekkono’s tool provides fault analysis and anomaly detection based on their own Change detection algorithm. The analysis is not automated but needs to be tailored for the problem at hand. ",
+          "DESCRIPTION": "Ekkonos tool provides fault analysis and anomaly detection based on their own Change detection algorithm. The analysis is not automated but needs to be tailored for the problem at hand. ",
           "REQUIREMENTS": "SAMPLE APPLICATION, CONTACT OWNER",
           "RESTRICTIONS": "NO RESTRICTIONS",
           "LICENSE": "IS PRIVATE",
@@ -449,7 +449,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand":  "WP4 - PATTERN RECOGNITION",
+        "brand":  "WP4 - PATTERN RECOGNITION"
         },
         {
           "id": "36",
@@ -465,7 +465,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand":  "WP4 - PATTERN RECOGNITION",
+        "brand":  "WP4 - PATTERN RECOGNITION"
         },
         
         {
@@ -482,7 +482,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand":  "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES",
+        "brand":  "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES"
         },
         
         {
@@ -499,7 +499,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand":  "WP4 - PATTERN RECOGNITION",
+        "brand":  "WP4 - PATTERN RECOGNITION"
         },
         {
           "id": "39",
@@ -515,7 +515,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand":  "WP4 - PATTERN RECOGNITION",
+        "brand":  "WP4 - PATTERN RECOGNITION"
         },
         {
           "id": "40",
@@ -531,7 +531,7 @@
             "id": 1,
             "name": "IS PRIVATE"
         },
-        "brand":  "WP4 - DATA ANALYTICS IN ENGINEERING AND OPERATION",
+        "brand":  "WP4 - DATA ANALYTICS IN ENGINEERING AND OPERATION"
         },
         {
           "id": "41",
