@@ -157,11 +157,41 @@
                 "name": "IS PRIVATE"
             },
             "brand": "DATA QUALITY"
-        }
-        
+        },
+        {   
+            "id": 10,
+            "ENTITY":"KEYLAND",
+            "TOOL-NAME":"Monitoring system for plastic injection molding machine.",
+            "FOCUS":"WP2 - DATA QUALITY",
+            "DESCRIPTION":"Simulate the behaviour, through GAN networks trained to simulate both good and bad data.",
+            "REQUIREMENTS":"PYTHON",
+            "RESTRICTIONS":"NO RESTRICTIONS",
+            "LICENSE":"IS PRIVATE",
+            "INTEGRATION":"AN API OR ENDPOINT COULD BE DEPLOYED TO COMMUNICATE WITH THE ARTIFACT (LOAD, EXPORT DATA)" ,
+                "category": {
+                    "id": 2,
+                    "name": "IS PRIVATE"
+                },
+                "brand": "DATA QUALITY"
+            },
+            {   
+                "id": 11,
+                "ENTITY":"PHILIPS, VTT",
+                "TOOL-NAME":"Synthetic MRI data by VTT and PHILIPS",
+                "FOCUS":"WP2 - DATA QUALITY",
+                "DESCRIPTION":"This tool is used to generate synthetic T1-weighted brain MR images. The tool overcomes privacy and availability issues with real data, by generating synthetic data that can be used in its place.",
+                "REQUIREMENTS":"NONE",
+                "RESTRICTIONS":"NO RESTRICTIONS",
+                "LICENSE":"IS PRIVATE",
+                "INTEGRATION":"THIS IS A FRAMEWORK, NOT DESIGNED TO BE INTEGRATED IN A TOOLCHAIN"  ,
+                "category": {
+                        "id": 2,
+                        "name": "IS PRIVATE"
+                    },
+                    "brand": "DATA QUALITY"
+                }
 
-    
-    
+   
   ],
   "Brands": [
       {
